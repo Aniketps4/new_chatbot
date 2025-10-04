@@ -11,7 +11,7 @@ click==8.2.1
 colorama==0.4.6
 distro==1.9.0
 dotenv==0.9.9
-duckduckgo-search>=3.9.3
+duckduckgo-search>=8.1.1
 gitdb==4.0.12
 GitPython==3.1.45
 greenlet==3.2.3
@@ -76,6 +76,7 @@ urllib3==2.5.0
 watchdog==6.0.0
 xxhash==3.5.0
 zstandard==0.23.0
+
 
 
 
